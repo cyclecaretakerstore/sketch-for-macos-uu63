@@ -1,4 +1,4 @@
-
+Enhance Sketch for macOS with Sketch for macOS vip Panel - plugin support and vector export, the #1 panel. Includes plugin support and vector export for a smoother and more
 
 
 
